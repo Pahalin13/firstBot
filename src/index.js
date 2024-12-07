@@ -1,5 +1,5 @@
 console.log('a')
-const { Telegraf } = require ('Telegraf')
+const { Telegraf } = require ('telegraf')
 require('dotenv').config()
 const{ apiurl }= require('../data/urls.json')
 
